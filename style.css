@@ -96,6 +96,16 @@ header h1{
 
 .collection-sec button{
     text-align: right;
+    background-color: #E02C6D;
+    border: none;
+    padding: 10px 24px 10px 24px;
+    border-radius: 41px;
+    color: white;
+    font-weight: 700;
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
 }
 
 /* special part */
