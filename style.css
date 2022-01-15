@@ -1,0 +1,31 @@
+/* header sec start from here */
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 30px;
+}
+header h1{
+    font-weight: 700;
+    font-size: 24px;
+}
+.top-sec{
+    display: flex;
+    justify-content: space-between;
+}
+
+.top-sec-text h1{
+    font-size: 52px;
+    font-weight: 700;
+    color: #3A3A3A;
+    ;
+}
+.top-sec-text button{
+    background-color: #E02C6D;
+    border: none;
+    padding: 10px 24px 10px 24px;
+    border-radius: 41px;
+    color: white;
+    font-weight: 700;
+}
+.fa-arrow-right{
+    margin-left: 10px;
+}
